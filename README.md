@@ -1,6 +1,6 @@
 # Melodrip
 ## Image to Music Playlist Generator
-## Authors: Bidita and Pure
+## Authors: Pure and Saki
 
 
 ### Introduction:
