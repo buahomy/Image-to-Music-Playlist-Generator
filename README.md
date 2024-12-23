@@ -38,7 +38,7 @@ For the image captioning section, we ran the picture through around 4 different 
 Ultimately, we were able to create a fun recommending system that takes in an image and compares the automatically generated image caption with various lyrics to recommend a song. As we have mentioned briefly, we will be focusing on the test image to display our results. 
 	For the picture of the white dog with funky sunglasses that is licking itself, the generated caption was “there is a dog wearing sunglasses and a collar with a collar”. After going through the preprocessing, TextRank, and keyword extraction functions, the key words were deemed as ‘collar’, ‘dog’, ‘wear’, ‘sunglass’. The following is a visualization of the graph that was fed into the buildGraph function (figure 2). 
 
-![Figure 2] (Figure 2.png)
+{% include_relative Figure 2.png %}
 
 The next graph is the table showing the assigned TextRank score and the keywords (figure 3). 
 
