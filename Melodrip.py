@@ -158,7 +158,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 
 #dataset
-songs = pd.read_csv('https://drive.google.com/file/d/1vf838bwv1pxXBgrQxojUGvUJwzWCGsCZ/view?usp=drive_link')
+url = "https://drive.google.com/uc?export=download&id=1vf838bwv1pxXBgrQxojUGvUJwzWCGsCZ"
+songs = pd.read_csv(url, low_memory=False)
 
 #preprocessing the dataset
 songs.drop("link", axis=1, inplace=True)
