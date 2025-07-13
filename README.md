@@ -2,7 +2,7 @@
 ## Image to Music Playlist Generator
 ## Authors: Pure and Saki
 
-## [Try it out here](https://melodrip.streamlit.app/)
+## [Try it out here](https://melodrip.streamlit.app/) 
 ## [Link to Colab](https://colab.research.google.com/drive/1FV_B7by20IdGuBS1goGFBVbOFCEqbz_E?usp=sharing#scrollTo=e8cozxUzDFgl)
 
 
